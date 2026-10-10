@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Production build output
+build/
+dist/
+
+# Environment / secrets
+.env*
+!.env.example
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Coverage / test output
+coverage/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Local SQLite runtime files (recreated on first run)
+data/*.sqlite-shm
+data/*.sqlite-wal

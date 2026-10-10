@@ -93,3 +93,12 @@ BRC-Style Checklist** (20 checkpoints, 7 categories); **AUD-2026-014** Riverside
 
 The disclaimer *“Demonstration prototype — not a certified audit system.”* appears in the
 header, the footer, the tour, and this README. No screen claims certification authority.
+
+## Tech stack
+
+React 18 + Vite 5 + Tailwind CSS v3 + PostCSS · `lucide-react` icons · hand-rolled SVG gauge ·
+no backend — all state persists in `localStorage`.
+
+## Author
+
+**Muhammad Bilal** — IT Project Coordinator (GovTech), MPhil Food Safety & Control.
